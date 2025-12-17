@@ -5,3 +5,5 @@ Este repositório apresenta um MVP acadêmico que utiliza dados públicos do IMD
 A base de dados contém informações sobre os filmes, como gênero, ano de lançamento e duração, além de dados de avaliação do público, como nota média e número de votos. As análises realizadas buscaram identificar possíveis relações entre essas características e a avaliação atribuída pelos usuários.
 
 Os resultados indicam que filmes mais populares tendem a apresentar notas médias mais altas, enquanto fatores como duração e ano de lançamento não demonstraram influência significativa.
+
+-Link para o noatebook no Databricks: https://dbc-eaa9af67-c8b5.cloud.databricks.com/editor/notebooks/3900930336844783?o=591692918648080
